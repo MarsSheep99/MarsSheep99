@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarsSheep99
 - 👀 I’m interested in any it technology
-- 🌱 I’m currently learning Java
-- 💞️ I hope to master Java this year
+- 🌱 I’m currently learning C/C++
+- 💞️ I hope to master C/C++ this year
 - 📫 How to reach me 2279384096@qq.com
 
 <!---
